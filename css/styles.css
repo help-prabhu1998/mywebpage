@@ -1,0 +1,112 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 5.625rem;
+  color: #2d6187;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #14274e;
+  font-weight: normal;
+  font-size:20px;
+}
+
+a {
+  color: #11999E;
+}
+
+hr{
+  border-width:5px;
+  width:3.5%;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+}
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 300px;
+  bottom: 10px;
+}
+
+.inkm {
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.middle-container {
+  background-color: white;
+  text-align: center;
+}
+
+.profpic {
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+
+.profile {
+  line-height: 2;
+  color: #40514E;
+  font-family: serif;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.bottom-container {
+  background-color: white;
+}
+
+.skills{
+  display: block;
+  margin-top:5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.education{
+  line-height: 25px;
+  text-align: inherit;
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.interests{
+  line-height: 25px;
+  text-align: inherit;
+  display: block;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 50%;
+}
